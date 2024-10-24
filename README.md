@@ -24,7 +24,8 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-```<html>
+
+<html>
     <head>
         <title> Time Table </title>
     </head>
@@ -66,7 +67,6 @@ Execute the program using runserver command.
                 <td style="background-color: rgb(217, 68, 135); color: aliceblue;">12:00pm - 01:00pm</td>
                 <td colspan = "6", align = "center"><b>LUNCH</b></td>
             </tr>
-            
             <tr style="background-color: rgb(66, 178, 229); color: aliceblue;">
                 <td style="background-color: rgb(217, 68, 135); color: aliceblue;">01:00pm - 03:00pm</td>        
                 <td></td>
@@ -83,18 +83,66 @@ Execute the program using runserver command.
                 <td></td>
                 <td>19EY710 - Quantative Ability - I</td>
                 <td>19CS405 - Operating System</td>
-                <td></td>
-                
-                
+                <td></td>  
+            </tr>
+        </table>
+        <br>
+        <br>
+        <table border = "2" style = "border-collapse:collapse" align = "center">
+            <tr>
+                <td>Sno</td>
+                <td>Subject Name</td>
+                <td>Subject Code</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Operating System</td>
+                <td>19CS405</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Quantative Ability - I</td>
+                <td>19EY710</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Fundamentals of Web Development</td>
+                <td>19AI414</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Computer Network</td>
+                <td>19CS304</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Basic Electrical Electorics and Mesurement Engineering</td>
+                <td>19EE305</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Python Programming</td>
+                <td>19AI301</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Compiler Design</td>
+                <td>19CS409</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Logic and Combinatronics</td>
+                <td>19MA212</td>
             </tr>
         </table>
     </body>
 </html>
-```
+
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/db0aaff3-61c9-4c0e-8d1c-511f733d70c8)
+![image](https://github.com/user-attachments/assets/9982aaea-1fd6-403b-aae5-c204b2e6adc3)
+
 
 
 ## RESULT
